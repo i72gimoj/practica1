@@ -1,2 +1,3 @@
-# practica1
-ejemplo de readme
+**este texto va en negrita**
+
+*este va en cursiva*
