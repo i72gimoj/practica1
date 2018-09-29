@@ -23,6 +23,8 @@
 
 `codigo linea`
 
+**`codigo linea en negrita`**
+
 ~~~
 
 ejemplo de bloque
