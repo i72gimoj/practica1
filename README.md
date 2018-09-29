@@ -21,10 +21,12 @@
 
 > esto es una cita 
 
-'codigo linea'
+`codigo linea`
 
 ~~~
+
 ejemplo de bloque
+
 ~~~
 
 ![logo de la uco](http://www.soycordoba.es/wp-content/uploads/2016/04/logo-UCO.jpg)
